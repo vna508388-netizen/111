@@ -1,0 +1,29 @@
+body {
+  background-size: cover;
+
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  image-resolution: 100%;
+}
+
+.t {
+  text-align: center;
+}
+.ar {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(131, 131, 113);
+}
+.ai {
+  color: rgb(225, 225, 225);
+}
+.we {
+  color: rgb(255, 255, 255);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.da {
+  color: aqua;
+  font-family: Arial, Helvetica, sans-serif;
+}
